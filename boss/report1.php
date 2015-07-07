@@ -22,7 +22,7 @@ echo '
       <div class="page-header" align="center">
         <img src="../images/logo.png"></img>
       </div>';
-echo'<p><form action="resultreport1.php" method="post"><label for="from">From</label>
+echo'<p><form action="chart.php" method="post"><label for="from">From</label>
 <input type="text" id="from" name="from">
 <label for="to">to</label>
 <input type="text" id="to" name="to">
